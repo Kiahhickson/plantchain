@@ -7,7 +7,7 @@ The Solution
 
 Tech Stack 
 
-Inspiration
+User Stories
 
 Link to project
 
