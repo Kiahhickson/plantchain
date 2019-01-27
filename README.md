@@ -52,3 +52,14 @@ There is also an element of incentivasation by rewarding participants with <a hr
 
 
 # Set up 🔗
+
+Make sure you have ```node``` and ```npm``` installed. ```Yarn``` package manager is recommended but not required. You can install it by running ```brew install yarn```.
+
+Install all dependencies: using ```npm install``` or ```yarn install```.
+
+# testing ✅
+```
+$ npm test
+# or 
+$ yarn test
+```
