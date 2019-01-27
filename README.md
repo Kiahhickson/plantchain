@@ -34,6 +34,10 @@ There is also an element of incentivasation by rewarding participants with <a hr
   - Amount of trees
 5. The user submits their information and is shown a congratulations page with a transaction number
 
+<div class="row">
+  <img src="public/wireframes/pc-wireframe-full.png">
+</div>
+
 # Tech Stack 👩‍💻
 
 <div class="row" style="float: right">
