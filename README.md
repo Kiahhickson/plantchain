@@ -10,7 +10,7 @@ The dApp is for people or companies to record their tree planting efforts in ord
 - Type of tree planted
 - Number of trees planted
 
-There is also an element of incentivasation by rewarding participants with <link rel="https://en.wikipedia.org/wiki/Carbon_credit" carbon credits>.
+There is also an element of incentivasation by rewarding participants with <a href="https://en.wikipedia.org/wiki/Carbon_credit"> carbon credits</a>.
 
 # User Stories
 
