@@ -3,7 +3,7 @@
 # 🌳 Plantchain 🌳 Proof of Existence dApp
 Plant a tree 🌳, add it to the blockchain ⛓, get rewarded!🎁
 
-<div class="row" style="align:center">
+<div class="row">
   <img src="public/wireframes/plantchain-wireframe.gif">
 </div>
 
@@ -28,12 +28,10 @@ There is also an element of incentivasation by rewarding participants with <a hr
 1. The user navigates to the plantchain homepage and is prompted to upload an image of them standing beside their planted tree's
 2. The user submits the image and the location is pulled from the image EXIF data. The user has the option to confirm the location information propogated or manually input the location of the planted tree.
 3. Once the user confirms the location they are able to search a plant database and select the type of tree specie they have planted, and the amount of trees planted.
-4. The user is then taken to a summary page where they are asked to confirm the inputted information:
-- Location
-- Type of Tree
-- Amount of trees
-<br>
-The user can edit the information at this stage before submitting to the blockchain.
+4. The user is then taken to a summary page where they are asked to confirm or edit the inputted information:
+  - Location
+  - Type of Tree
+  - Amount of trees
 5. The user submits their information and is shown a congratulations page with a transaction number
 
 # Tech Stack 👩‍💻
