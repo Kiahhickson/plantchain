@@ -3,10 +3,6 @@
 # 🌳 Plantchain 🌳 Proof of Existence dApp
 Plant a tree 🌳, add it to the blockchain ⛓, get rewarded!🎁
 
-<div class="row">
-  <img src="public/wireframes/plantchain-wireframe.gif">
-</div>
-
 # Documents 📄
 <a href="">Design Pattern Decisions</a>
 <br>
