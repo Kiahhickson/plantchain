@@ -1,12 +1,18 @@
-# plantchain - Link to project
+# Plantchain - Link to project
 Plant a tree, add it to the blockchain, get rewarded!
 
-The Idea
+# What does this project do?
+This project is a Proof of Existence dApp. The dApp provides an interface for people to upload an image via IPFS and input additional information in relation to that image. 
 
+# Project use case
+The dApp is for people or companies to record their tree planting efforts in order to record the:
+- Location of the planted trees
+- Type of tree planted
+- Number of trees planted
 
-The Solution
+There is also an element of incentivasation by rewarding participants with <link rel="https://en.wikipedia.org/wiki/Carbon_credit" carbon credits>.
 
-User Stories
+# User Stories
 
 Tech Stack 
 * Truffle
