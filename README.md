@@ -6,7 +6,7 @@ Plant a tree, add it to the blockchain, get rewarded!
 <a href="">Avoiding Common Attacks</a>
 
 # What does this project do?
-This project is a Proof of Existence dApp. The dApp provides an interface for people to upload an image via IPFS and input additional information in relation to that image. 
+This project is a Proof of Existence dApp. The dApp provides an interface for people to upload an image via IPFS and input additional information in relation to that image.
 
 # Project use case
 The dApp is for people or companies to record their tree planting efforts in order to record the:
@@ -20,16 +20,14 @@ There is also an element of incentivasation by rewarding participants with <a hr
 
 
 
-# Tech Stack 
-* Truffle
-* Solidity
-* React
-* IPFS: Image uploading
-* Infura
-* Metamask
+# Tech Stack
+<img src="public/Logos/ethereum.png">
+<img src="public/Logos/solidity.png">
+<img src="public/Logos/truffle.png">
+<img src="public/Logos/react.png">
+<img src="public/Logos/IPFS.png">
+<img src="public/Logos/infura.png">
+<img src="public/Logos/metamask.svg">
 
-<a href="public/dApp logos/ethereum.png"></a>
 
-
-Set up 
-
+# Set up
