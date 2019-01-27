@@ -29,7 +29,7 @@ There is also an element of incentivasation by rewarding participants with <a hr
 <img class="dapp-logo" src="public/Logos/react.png">
 <img class="dapp-logo" src="public/Logos/IPFS.png">
 <img class="dapp-logo" src="public/Logos/infura.png">
-<img class="dapp-logo" src="public/Logos/metamask.svg">
+<img class="dapp-logo" src="public/Logos/metamask.png">
 
 
 # Set up
