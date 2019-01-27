@@ -1,3 +1,5 @@
+<link href="public/css/style.css" rel="stylesheet"></link>
+
 # Plantchain - Proof of Existence dApp 🌳
 Plant a tree, add it to the blockchain, get rewarded!
 
@@ -21,13 +23,13 @@ There is also an element of incentivasation by rewarding participants with <a hr
 
 
 # Tech Stack
-<img src="public/Logos/ethereum.png">
-<img src="public/Logos/solidity.png">
-<img src="public/Logos/truffle.png">
-<img src="public/Logos/react.png">
-<img src="public/Logos/IPFS.png">
-<img src="public/Logos/infura.png">
-<img src="public/Logos/metamask.svg">
+<img class="dapp-logo" src="public/Logos/ethereum.png">
+<img class="dapp-logo" src="public/Logos/solidity.png">
+<img class="dapp-logo" src="public/Logos/truffle.png">
+<img class="dapp-logo" src="public/Logos/react.png">
+<img class="dapp-logo" src="public/Logos/IPFS.png">
+<img class="dapp-logo" src="public/Logos/infura.png">
+<img class="dapp-logo" src="public/Logos/metamask.svg">
 
 
 # Set up
