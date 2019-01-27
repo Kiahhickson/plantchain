@@ -23,13 +23,13 @@ There is also an element of incentivasation by rewarding participants with <a hr
 
 
 # Tech Stack
-<img class="dapp-logo" src="public/Logos/ethereum.png">
+<img class="dapp-logo" src="public/Logos/ethereum.png" max-width="50%">
 <img class="dapp-logo" src="public/Logos/solidity.png">
 <img class="dapp-logo" src="public/Logos/truffle.png">
 <img class="dapp-logo" src="public/Logos/react.png">
 <img class="dapp-logo" src="public/Logos/IPFS.png">
 <img class="dapp-logo" src="public/Logos/infura.png">
-<img class="dapp-logo" src="public/Logos/metamask.png">
+<img class="dapp-logo" src="public/Logos/metamask.png" max-width="50%">
 
 
 # Set up
