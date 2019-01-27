@@ -1,9 +1,5 @@
 <link href="public/css/style.css" rel="stylesheet"></link>
 
-<div class="row">
-  <img src="public/Logos/plantchain.png">
-</div>
-
 # 🌳 Plantchain 🌳 Proof of Existence dApp
 Plant a tree 🌳, add it to the blockchain ⛓, get rewarded!🎁
 
