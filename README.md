@@ -48,3 +48,10 @@ There is also an element of incentivasation by rewarding participants with <a hr
 
 
 # Set up 🔗
+
+# testing ✅
+```
+$ npm test
+# or 
+$ yarn test
+```
