@@ -28,6 +28,8 @@ There is also an element of incentivasation by rewarding participants with <a hr
 * Infura
 * Metamask
 
+<a href="public/dApp logos/ethereum.png"></a>
+
 
 Set up 
 
