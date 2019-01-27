@@ -13,14 +13,22 @@ This project is a Proof of Existence dApp. The dApp provides an interface for pe
 # Project use case 👩‍🌾👨‍🌾
 The dApp is for people or companies to record their tree planting efforts in order to record the:
 - Location of the planted tree/s
+- Date/ time
 - Type of tree/s planted
 - Number of tree/s planted
 
 There is also an element of incentivasation by rewarding participants with <a href="https://en.wikipedia.org/wiki/Carbon_credit"> carbon credits</a>, allowing individuals or companies to lower their carbon footprint.
 
 # User Stories 🙋🏼‍♀️🙋🏾‍♂️📝
-
-
+1. The user navigates to the plantchain homepage and is prompted to upload an image of them standing beside their planted tree's
+2. The user submits the image and the location is pulled from the image EXIF data. The user has the option to confirm the location information propogated or manually input the location of the planted tree.
+3. Once the user confirms the location they are able to search a plant database and select the type of tree specie they have planted, and the amount of trees planted. 
+4. The user is then taken to a summary page where they are asked to confirm the inputted information:
+- Location
+- Type of Tree
+- Amount of trees
+The user can edit the information at this stage before submitting to the blockchain.
+5. The user submits their information and is shown a congratulations page with a transaction number
 
 # Tech Stack 👩‍💻
 
